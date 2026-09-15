@@ -2,7 +2,7 @@
 
 Backend IA (résumé, recherche sémantique, chat) pour une application de notes, construit avec
 **FastAPI** et **SQLite**. Expose une API REST consommée par une app iOS (voir le dépôt
-compagnon [`ai-notes-ios`](https://github.com/<votre-user>/ai-notes-ios)), mais reste
+compagnon [`ai-notes-ios`](https://github.com/WajihBenabdessalem/ai-notes-ios)), mais reste
 totalement indépendant — testable et utilisable seul, depuis n'importe quel client HTTP.
 
 Projet réalisé par [Wajih Benabdessalem](https://www.linkedin.com/in/wajihabdessalem)
@@ -57,7 +57,7 @@ docker/                         # Dockerfile + docker-compose
 ## Installation
 
 ```bash
-git clone https://github.com/<votre-user>/ai-notes-backend.git
+git clone https://github.com/WajihBenabdessalem/ai-notes-backend.git
 cd ai-notes-backend
 
 python -m venv .venv
